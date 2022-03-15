@@ -11,6 +11,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel target="9">
       <module name="CompleteJavaDeveloper" target="" />
+      <module name="Section1" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
